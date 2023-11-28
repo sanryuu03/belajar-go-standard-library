@@ -1,6 +1,12 @@
 # Release Notes
 
 
+## v1.0.3 (2023-11-28)
+
+- package os
+- run tanpa build => go run os.go san ryuu fullstack
+- run tanpa build => go run os.go "san ryuu fullstack"
+
 ## v1.0.2 (2023-11-28)
 
 - package errors
