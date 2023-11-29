@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.6 (2023-11-29)
+
+- package strconv
+- run tanpa build => go run strconv.go
+
 ## v1.0.5 (2023-11-29)
 
 - package strings
