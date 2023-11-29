@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.10 (2023-11-29)
+
+- package sort
+- run tanpa build => go run sort.go
+
 ## v1.0.9 (2023-11-29)
 
 - package container/ring => struktur data circular list
