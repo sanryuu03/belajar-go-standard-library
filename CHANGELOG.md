@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.9 (2023-11-29)
+
+- package container/ring => struktur data circular list
+- run tanpa build => go run ring.go
+
 ## v1.0.8 (2023-11-29)
 
 - package container/list => struktur data double linked list
