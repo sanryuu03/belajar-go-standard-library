@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.15 (2023-11-29)
+
+- package slices
+- run tanpa build => go run slices.go
+
 ## v1.0.14 (2023-11-29)
 
 - package encoding
