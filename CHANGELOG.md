@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.13 (2023-11-29)
+
+- package regexp
+- run tanpa build => go run regexp.go
+
 ## v1.0.12 (2023-11-29)
 
 - package reflect
