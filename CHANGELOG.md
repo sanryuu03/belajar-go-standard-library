@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.12 (2023-11-29)
+
+- package reflect
+- run tanpa build => go run reflect.go
+
 ## v1.0.11 (2023-11-29)
 
 - package time
