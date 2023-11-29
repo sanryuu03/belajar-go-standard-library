@@ -1,9 +1,15 @@
 # Release Notes
 
 
+## v1.0.17 (2023-11-29)
+
+- package bufio => singkatan dari buffered io
+- run tanpa build => go run bufio_read.go
+- run tanpa build => go run bufio_writer.go
+
 ## v1.0.16 (2023-11-29)
 
-- path dan filepath
+- package path dan filepath
 - run tanpa build => go run path.go
 - run tanpa build => go run filepath.go
 
