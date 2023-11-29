@@ -1,6 +1,12 @@
 # Release Notes
 
 
+## v1.0.16 (2023-11-29)
+
+- path dan filepath
+- run tanpa build => go run path.go
+- run tanpa build => go run filepath.go
+
 ## v1.0.15 (2023-11-29)
 
 - package slices
