@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.18 (2023-11-29)
+
+- package file manipulation => file management
+- run tanpa build => go run file.go
+
 ## v1.0.17 (2023-11-29)
 
 - package bufio => singkatan dari buffered io
