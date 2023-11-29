@@ -1,6 +1,13 @@
 # Release Notes
 
 
+## v1.0.14 (2023-11-29)
+
+- package encoding
+- run tanpa build => go run base64.go
+- run tanpa build => go run csv_reader.go
+- run tanpa build => go run csv_writer.go
+
 ## v1.0.13 (2023-11-29)
 
 - package regexp
