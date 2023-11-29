@@ -1,6 +1,12 @@
 # Release Notes
 
 
+## v1.0.8 (2023-11-29)
+
+- package container/list => struktur data double linked list
+- struktur data double linked list => biasanya untuk antrian
+- run tanpa build => go run list.go
+
 ## v1.0.7 (2023-11-29)
 
 - package math
