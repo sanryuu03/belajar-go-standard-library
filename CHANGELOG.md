@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.7 (2023-11-29)
+
+- package math
+- run tanpa build => go run math.go
+
 ## v1.0.6 (2023-11-29)
 
 - package strconv
