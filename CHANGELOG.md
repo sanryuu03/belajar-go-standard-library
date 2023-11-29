@@ -1,6 +1,12 @@
 # Release Notes
 
 
+## v1.0.11 (2023-11-29)
+
+- package time
+- run tanpa build => go run time.go
+- run tanpa build => go run duration.go
+
 ## v1.0.10 (2023-11-29)
 
 - package sort
