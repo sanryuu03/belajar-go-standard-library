@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.5 (2023-11-29)
+
+- package strings
+- run tanpa build => go run strings.go
+
 ## v1.0.4 (2023-11-29)
 
 - package flag
